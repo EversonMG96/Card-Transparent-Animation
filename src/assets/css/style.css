@@ -53,3 +53,12 @@ body {
     transform: translateY(0px);
     opacity: 1;
 }
+
+.container .card .content h2 {
+    position: absolute;
+    top: -80px;
+    right: 30px;
+    font-size: 8em;
+    color: rgba(255, 255, 255, 0.005);
+    pointer-events: none;
+}
