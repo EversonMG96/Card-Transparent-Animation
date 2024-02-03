@@ -62,3 +62,9 @@ body {
     color: rgba(255, 255, 255, 0.005);
     pointer-events: none;
 }
+
+.container .card .content h3 {
+    font-size: 1.8em;
+    color: #fff;
+    z-index: 1;
+}
