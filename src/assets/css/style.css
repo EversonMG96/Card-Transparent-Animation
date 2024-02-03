@@ -6,3 +6,11 @@
     box-sizing: border-box;
     font-family: "Protest Guerrilla", sans-serif;
 }
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #161623;
+}
